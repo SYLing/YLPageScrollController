@@ -1,6 +1,6 @@
 //
-//  YLPageScrollControllerTests.m
-//  YLPageScrollControllerTests
+//  YLPageScrollControllerDemoTests.m
+//  YLPageScrollControllerDemoTests
 //
 //  Created by 梁惠源 on 16/9/18.
 //  Copyright © 2016年 MOLMC. All rights reserved.
@@ -8,11 +8,11 @@
 
 #import <XCTest/XCTest.h>
 
-@interface YLPageScrollControllerTests : XCTestCase
+@interface YLPageScrollControllerDemoTests : XCTestCase
 
 @end
 
-@implementation YLPageScrollControllerTests
+@implementation YLPageScrollControllerDemoTests
 
 - (void)setUp {
     [super setUp];

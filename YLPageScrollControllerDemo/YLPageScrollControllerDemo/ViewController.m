@@ -2,7 +2,7 @@
 //  ViewController.m
 //  YLPageScrollController
 //
-//  Created by 梁惠源 on 16/9/18.
+//  Created by SYLing on 16/9/18.
 //  Copyright © 2016年 MOLMC. All rights reserved.
 //
 
