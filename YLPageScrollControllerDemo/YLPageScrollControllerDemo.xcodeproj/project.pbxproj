@@ -554,6 +554,7 @@
 				BBACCC5F1D8E9EF00050F519 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		BBACCC601D8E9EF00050F519 /* Build configuration list for PBXNativeTarget "YLPageScrollControllerDemoTests" */ = {
 			isa = XCConfigurationList;
@@ -562,6 +563,7 @@
 				BBACCC621D8E9EF00050F519 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		BBACCC631D8E9EF00050F519 /* Build configuration list for PBXNativeTarget "YLPageScrollControllerDemoUITests" */ = {
 			isa = XCConfigurationList;
@@ -570,6 +572,7 @@
 				BBACCC651D8E9EF00050F519 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
