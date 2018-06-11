@@ -215,6 +215,12 @@ blue:((float)(rgbValue & 0xFF))/255.0 alpha:1.0]
     }
 }
 
+- (void)setSeparatedLineHeight:(CGFloat)separatedLineHeight
+{
+    _separatedLineHeight = separatedLineHeight;
+    [self generateUI];
+}
+
 // Only override drawRect: if you perform custom drawing.
 // An empty implementation adversely affects performance during animation.
 - (void)drawRect:(CGRect)rect {
